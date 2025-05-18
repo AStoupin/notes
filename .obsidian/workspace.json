@@ -11,12 +11,14 @@
             "id": "8e54e7e9afc26de3",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Screenshot_2025-04-24-11-19-25-223_com.vkontakte.android-edit.jpg"
+                "file": "2025-05-18.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Screenshot_2025-04-24-11-19-25-223_com.vkontakte.android-edit"
+              "icon": "lucide-file",
+              "title": "2025-05-18"
             }
           }
         ]
@@ -177,12 +179,12 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "8e54e7e9afc26de3",
+  "active": "78370905bdc5c66a",
   "lastOpenFiles": [
+    "files/Screenshot_2025-04-24-11-19-25-223_com.vkontakte.android-edit.jpg",
     "My note.md",
     "2025-05-18.md",
     "files",
-    "Screenshot_2025-04-24-11-19-25-223_com.vkontakte.android-edit.jpg",
     "Untitled 1.md",
     "Untitled.md",
     "readme.md",
