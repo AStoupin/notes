@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "Untitled"
             }
           }
         ]
@@ -181,6 +181,7 @@
   },
   "active": "8e54e7e9afc26de3",
   "lastOpenFiles": [
+    "Untitled 1.md",
     "Untitled.md",
     "readme.md",
     "nenote.md",
@@ -191,7 +192,6 @@
     "conflict-files-obsidian-git.md",
     "attachments",
     "attachments/Screenshot_2025-04-24-11-19-25-223_com.vkontakte.android-edit.jpg",
-    "files",
-    "Untitled 1.md"
+    "files"
   ]
 }
