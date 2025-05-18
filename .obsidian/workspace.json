@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "audio.md",
+                "file": "Untitled 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "audio"
+              "title": "Untitled 1"
             }
           }
         ]
@@ -181,12 +181,12 @@
   },
   "active": "8e54e7e9afc26de3",
   "lastOpenFiles": [
-    "nenote.md",
     "Untitled.md",
-    "2025-05-18.md",
     "readme.md",
+    "nenote.md",
     "My note.md",
     "audio.md",
+    "2025-05-18.md",
     "Screenshot_2025-04-24-11-19-25-223_com.vkontakte.android-edit.jpg",
     "conflict-files-obsidian-git.md",
     "attachments",
