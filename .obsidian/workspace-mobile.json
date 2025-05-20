@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "чулан.md",
+                "file": "американские принципы помощи.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "чулан"
+              "title": "американские принципы помощи"
             }
           }
         ]
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "чулан.md",
+            "file": "американские принципы помощи.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "чулан.md",
+            "file": "американские принципы помощи.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -131,7 +131,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "чулан.md",
+            "file": "американские принципы помощи.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -164,10 +164,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d3a6aefeb0d2a4c4",
+  "active": "add9266c177fb362",
   "lastOpenFiles": [
-    "американские принципы помощи.md",
     "чулан.md",
+    "американские принципы помощи.md",
     "/чулан.md",
     "My note.md"
   ]
