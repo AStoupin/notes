@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "американские принципы помощи.md",
+                "file": "чулан.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "американские принципы помощи"
+              "title": "чулан"
             }
           }
         ]
@@ -166,9 +166,11 @@
   },
   "active": "d3a6aefeb0d2a4c4",
   "lastOpenFiles": [
-    "чулан.md",
-    "My note.md",
     "американские принципы помощи.md",
-    "/чулан.md"
+    "/чулан.md",
+    "2025-05-20.md",
+    "/2025-05-20.md",
+    "чулан.md",
+    "My note.md"
   ]
 }
