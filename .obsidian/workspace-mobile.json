@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "чулан.md",
+                "file": "My note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "чулан"
+              "title": "My note"
             }
           }
         ]
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "чулан.md",
+            "file": "My note.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "чулан.md",
+            "file": "My note.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -131,7 +131,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "чулан.md",
+            "file": "My note.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -165,5 +165,7 @@
     }
   },
   "active": "d3a6aefeb0d2a4c4",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "чулан.md"
+  ]
 }
