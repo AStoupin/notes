@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-05-21.md",
+                "file": "audio.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-21"
+              "title": "audio"
             }
           }
         ]
@@ -181,8 +181,9 @@
   },
   "active": "8e54e7e9afc26de3",
   "lastOpenFiles": [
-    "американские принципы помощи.md",
     "daily/2025-05-21.md",
+    "daily/2025-05-18.md",
+    "американские принципы помощи.md",
     "daily",
     "чулан.md",
     "daily/2025-05-20.md",
@@ -192,7 +193,6 @@
     "audio.md",
     "Untitled.md",
     "My note.md",
-    "daily/2025-05-18.md",
     "Screenshot_2025-04-24-11-19-25-223_com.vkontakte.android-edit.jpg",
     "nenote.md",
     "conflict-files-obsidian-git.md",
