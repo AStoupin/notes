@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "audio.md",
+                "file": "daily/2025-05-21.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "audio"
+              "title": "2025-05-21"
             }
           }
         ]
@@ -181,6 +181,7 @@
   },
   "active": "8e54e7e9afc26de3",
   "lastOpenFiles": [
+    "audio.md",
     "daily/2025-05-21.md",
     "daily/2025-05-18.md",
     "американские принципы помощи.md",
@@ -190,7 +191,6 @@
     "Untitled 2.md",
     "Untitled 1.md",
     "readme.md",
-    "audio.md",
     "Untitled.md",
     "My note.md",
     "Screenshot_2025-04-24-11-19-25-223_com.vkontakte.android-edit.jpg",
