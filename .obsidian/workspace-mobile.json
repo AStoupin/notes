@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "storage-loader.md",
+                "file": "чулан.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "storage-loader"
+              "title": "чулан"
             }
           }
         ]
@@ -166,13 +166,13 @@
   },
   "active": "d3a6aefeb0d2a4c4",
   "lastOpenFiles": [
+    "daily/2025-05-21.md",
+    "чулан.md",
     "daily/2025-05-26.md",
     "storage-loader.md",
-    "чулан.md",
     "/daily/2025-05-21.md",
     "/daily",
     "readme.md",
-    "daily/2025-05-21.md",
     "/daily/2025-05-18.md",
     "/audio.md",
     "американские принципы помощи.md",
