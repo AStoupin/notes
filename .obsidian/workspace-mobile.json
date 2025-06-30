@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "storage-loader.md",
+                "file": "daily/2025-06-30.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "storage-loader"
+              "title": "2025-06-30"
             }
           }
         ]
@@ -166,6 +166,7 @@
   },
   "active": "41405c9fa1500f60",
   "lastOpenFiles": [
+    "storage-loader.md",
     "daily/2025-06-30.md",
     "daily/2025-06-02.md",
     "Untitled.md",
@@ -184,7 +185,6 @@
     "чулан.md",
     "daily/2025-05-21.md",
     "daily/2025-05-26.md",
-    "storage-loader.md",
     "/daily/2025-05-21.md",
     "readme.md",
     "/daily/2025-05-18.md",
