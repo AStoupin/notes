@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "чулан.md",
+                "file": "daily/2025-07-12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "чулан"
+              "title": "2025-07-12"
             }
           }
         ]
@@ -179,8 +179,11 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "f5ff0872f03195d8",
+  "active": "50bead3728ae49e5",
   "lastOpenFiles": [
+    "daily/2025-05-29.md",
+    "daily/2025-07-12.md",
+    "чулан.md",
     "daily/2025-06-30.md",
     "daily/2025-06-25.md",
     "Парфюм.md",
@@ -192,11 +195,9 @@
     "daily/2025-05-31.md",
     "daily/2025-06-02.md",
     "daily/2025-06-01.md",
-    "daily/2025-05-29.md",
     "daily/2025-05-26.md",
     "daily/2025-05-21.md",
     "attachments/Screenshot_2025-04-24-11-19-25-223_com.vkontakte.android-edit.jpg",
-    "чулан.md",
     "audio.md",
     "daily/2025-05-18.md",
     "daily",
