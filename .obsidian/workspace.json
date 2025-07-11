@@ -15,7 +15,7 @@
               "state": {
                 "file": "daily/2025-07-12.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "2025-07-12"
@@ -166,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,17 +182,18 @@
   },
   "active": "50bead3728ae49e5",
   "lastOpenFiles": [
-    "daily/2025-05-29.md",
+    "daily/2025-06-25.md",
+    "daily/2025-06-30.md",
     "daily/2025-07-12.md",
     "чулан.md",
-    "daily/2025-06-30.md",
-    "daily/2025-06-25.md",
+    "американские принципы помощи.md",
+    "storage-loader.md",
+    "readme.md",
+    "My note.md",
+    "daily/2025-05-29.md",
     "Парфюм.md",
     "nenote.md",
     "gigachat.md",
-    "readme.md",
-    "storage-loader.md",
-    "американские принципы помощи.md",
     "daily/2025-05-31.md",
     "daily/2025-06-02.md",
     "daily/2025-06-01.md",
@@ -204,7 +206,6 @@
     "daily/2025-05-20.md",
     "Untitled 2.md",
     "Untitled 1.md",
-    "My note.md",
     "Screenshot_2025-04-24-11-19-25-223_com.vkontakte.android-edit.jpg",
     "conflict-files-obsidian-git.md",
     "attachments",
