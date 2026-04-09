@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-04-09.md",
+                "file": "daily/2026-03-08.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -42,7 +42,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-04-09"
+              "title": "2026-03-08"
             }
           }
         ],
@@ -192,8 +192,8 @@
   },
   "active": "b709ea2ec130bdc7",
   "lastOpenFiles": [
-    "daily/2026-03-08.md",
     "daily/2026-04-09.md",
+    "daily/2026-03-08.md",
     "daily/2026-03-13.md",
     "daily/2026-03-11.md",
     "daily/2026-03-09.md",
