@@ -13,3 +13,9 @@
 Loader
   Ждет пси
 
+
+![[Appointment.pdf]]
+![[Booking.pdf]]
+![[Insuarance.pdf]]
+![[Transfer.pdf]]
+![[Visa-Application-Form-Stoupin Artem.pdf]]
