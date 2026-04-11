@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Стримы проекта PG.md",
-                "mode": "source",
+                "file": "daily/2026-03-13.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Стримы проекта PG"
+              "title": "2026-03-13"
             }
           }
         ],
@@ -207,6 +207,7 @@
   "active": "3e5d0928442648e6",
   "lastOpenFiles": [
     "Стримы проекта PG.md",
+    "vacuum.md",
     "/attachments",
     "attachments/Visa-Application-Form-Stoupin Artem.pdf",
     "attachments/Transfer.pdf",
