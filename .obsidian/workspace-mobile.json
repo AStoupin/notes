@@ -51,8 +51,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-03-08.md",
-                "mode": "preview",
+                "file": "daily/2026-04-23.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -66,7 +66,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-03-08"
+              "title": "2026-04-23"
             }
           }
         ],
@@ -135,7 +135,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "5e3874dea767ae54",
@@ -214,13 +214,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2a85df2167afc98c",
+  "active": "3e5d0928442648e6",
   "lastOpenFiles": [
+    "daily/2025-05-26.md",
+    "daily/2026-03-08.md",
     "daily/2026-04-28.md",
     "daily/2026-04-23.md",
     "daily/2026-04-18.md",
     "daily/2026-04-22.md",
-    "daily/2026-03-08.md",
     "daily/2026-04-11.md",
     "daily/2026-03-11.md",
     "vacuum.md",
@@ -247,7 +248,6 @@
     "американские принципы помощи.md",
     "чулан.md",
     "daily/2025-08-14.md",
-    "daily/2025-08-05.md",
     "/daily",
     "Untitled"
   ]
