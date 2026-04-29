@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "чулан"
             }
+          },
+          {
+            "id": "e5d3c959805b4900",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,6 +183,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -179,7 +193,7 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "50bead3728ae49e5",
+  "active": "e5d3c959805b4900",
   "lastOpenFiles": [
     "daily/2025-07-12.md",
     "Стримы проекта PG.md",
