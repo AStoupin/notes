@@ -126,7 +126,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Bot",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -163,7 +163,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "5e3874dea767ae54",
@@ -242,7 +242,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "94cac6614c712a86",
+  "active": "2a85df2167afc98c",
   "lastOpenFiles": [
     "daily/2026-06-12.md",
     "daily/2026-05-25.md",
