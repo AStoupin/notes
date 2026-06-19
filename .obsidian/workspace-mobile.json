@@ -126,7 +126,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Bot",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
