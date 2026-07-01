@@ -89,12 +89,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2026-06-19.md",
+                "file": "daily/2026-07-01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-06-19"
+              "title": "2026-07-01"
             }
           }
         ],
@@ -244,9 +244,10 @@
   },
   "active": "94cac6614c712a86",
   "lastOpenFiles": [
+    "daily/2026-06-19.md",
+    "daily/2026-07-01.md",
     "daily/2026-06-20.md",
     "daily/2026-05-25.md",
-    "daily/2026-06-19.md",
     "daily/2026-06-17.md",
     "daily/2026-06-12.md",
     "Untitled.md",
@@ -277,7 +278,6 @@
     "attachments/Insuarance.pdf",
     "attachments/Booking.pdf",
     "attachments/Appointment.pdf",
-    "daily/2026-03-05.md",
     "/daily",
     "Untitled"
   ]
